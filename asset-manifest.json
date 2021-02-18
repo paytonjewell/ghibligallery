@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ghibligallery/static/css/main.468ed6ed.chunk.css",
+    "main.css": "/ghibligallery/static/css/main.ca7041b6.chunk.css",
     "main.js": "/ghibligallery/static/js/main.c35eb9f2.chunk.js",
     "main.js.map": "/ghibligallery/static/js/main.c35eb9f2.chunk.js.map",
     "runtime-main.js": "/ghibligallery/static/js/runtime-main.101b7bc4.js",
@@ -10,7 +10,7 @@
     "static/js/3.e907d012.chunk.js": "/ghibligallery/static/js/3.e907d012.chunk.js",
     "static/js/3.e907d012.chunk.js.map": "/ghibligallery/static/js/3.e907d012.chunk.js.map",
     "index.html": "/ghibligallery/index.html",
-    "static/css/main.468ed6ed.chunk.css.map": "/ghibligallery/static/css/main.468ed6ed.chunk.css.map",
+    "static/css/main.ca7041b6.chunk.css.map": "/ghibligallery/static/css/main.ca7041b6.chunk.css.map",
     "static/js/2.3811c241.chunk.js.LICENSE.txt": "/ghibligallery/static/js/2.3811c241.chunk.js.LICENSE.txt",
     "static/media/arrietty.d35669f9.jpg": "/ghibligallery/static/media/arrietty.d35669f9.jpg",
     "static/media/castle.ababaf4f.jpg": "/ghibligallery/static/media/castle.ababaf4f.jpg",
@@ -36,7 +36,7 @@
   "entrypoints": [
     "static/js/runtime-main.101b7bc4.js",
     "static/js/2.3811c241.chunk.js",
-    "static/css/main.468ed6ed.chunk.css",
+    "static/css/main.ca7041b6.chunk.css",
     "static/js/main.c35eb9f2.chunk.js"
   ]
 }
