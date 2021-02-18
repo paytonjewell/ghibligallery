@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/ghibligallery/static/css/main.468ed6ed.chunk.css",
+    "main.js": "/ghibligallery/static/js/main.c35eb9f2.chunk.js",
+    "main.js.map": "/ghibligallery/static/js/main.c35eb9f2.chunk.js.map",
+    "runtime-main.js": "/ghibligallery/static/js/runtime-main.101b7bc4.js",
+    "runtime-main.js.map": "/ghibligallery/static/js/runtime-main.101b7bc4.js.map",
+    "static/js/2.3811c241.chunk.js": "/ghibligallery/static/js/2.3811c241.chunk.js",
+    "static/js/2.3811c241.chunk.js.map": "/ghibligallery/static/js/2.3811c241.chunk.js.map",
+    "static/js/3.e907d012.chunk.js": "/ghibligallery/static/js/3.e907d012.chunk.js",
+    "static/js/3.e907d012.chunk.js.map": "/ghibligallery/static/js/3.e907d012.chunk.js.map",
+    "index.html": "/ghibligallery/index.html",
+    "static/css/main.468ed6ed.chunk.css.map": "/ghibligallery/static/css/main.468ed6ed.chunk.css.map",
+    "static/js/2.3811c241.chunk.js.LICENSE.txt": "/ghibligallery/static/js/2.3811c241.chunk.js.LICENSE.txt",
+    "static/media/arrietty.d35669f9.jpg": "/ghibligallery/static/media/arrietty.d35669f9.jpg",
+    "static/media/castle.ababaf4f.jpg": "/ghibligallery/static/media/castle.ababaf4f.jpg",
+    "static/media/cat.e9d07063.jpg": "/ghibligallery/static/media/cat.e9d07063.jpg",
+    "static/media/earthsea.fb8747d3.jpg": "/ghibligallery/static/media/earthsea.fb8747d3.jpg",
+    "static/media/grave.a36f8aff.jpg": "/ghibligallery/static/media/grave.a36f8aff.jpg",
+    "static/media/howl.6ad622e2.jpg": "/ghibligallery/static/media/howl.6ad622e2.jpg",
+    "static/media/kaguya.9da42fe0.jpg": "/ghibligallery/static/media/kaguya.9da42fe0.jpg",
+    "static/media/kiki.3826de17.jpg": "/ghibligallery/static/media/kiki.3826de17.jpg",
+    "static/media/marnie.6889f44c.jpg": "/ghibligallery/static/media/marnie.6889f44c.jpg",
+    "static/media/neighbor.76ab03ad.png": "/ghibligallery/static/media/neighbor.76ab03ad.png",
+    "static/media/pompoko.f6b5afc6.jpg": "/ghibligallery/static/media/pompoko.f6b5afc6.jpg",
+    "static/media/ponyo.feb4154a.jpeg": "/ghibligallery/static/media/ponyo.feb4154a.jpeg",
+    "static/media/poppy.9ec89013.jpg": "/ghibligallery/static/media/poppy.9ec89013.jpg",
+    "static/media/porco.f3db6a51.jpg": "/ghibligallery/static/media/porco.f3db6a51.jpg",
+    "static/media/princess.59129e24.jpg": "/ghibligallery/static/media/princess.59129e24.jpg",
+    "static/media/spirited.aa6a8eab.jpg": "/ghibligallery/static/media/spirited.aa6a8eab.jpg",
+    "static/media/whisper.6813a6d9.jpg": "/ghibligallery/static/media/whisper.6813a6d9.jpg",
+    "static/media/wind.bb9b752d.jpg": "/ghibligallery/static/media/wind.bb9b752d.jpg",
+    "static/media/yamadas.353c9a52.jpg": "/ghibligallery/static/media/yamadas.353c9a52.jpg",
+    "static/media/yesterday.1447eeb3.jpg": "/ghibligallery/static/media/yesterday.1447eeb3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.101b7bc4.js",
+    "static/js/2.3811c241.chunk.js",
+    "static/css/main.468ed6ed.chunk.css",
+    "static/js/main.c35eb9f2.chunk.js"
+  ]
+}
